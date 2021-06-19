@@ -1,0 +1,3 @@
+[submodule "libpff-sys/libpff"]
+	path = libpff-sys/libpff
+	url = https://github.com/libyal/libpff.git
