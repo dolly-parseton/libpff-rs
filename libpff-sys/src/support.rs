@@ -19,4 +19,5 @@ mod wrapped_functions {
             1 | _ => CodePage::try_from(*codepage),
         }
     }
+    crate::enums::File
 }
